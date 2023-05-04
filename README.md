@@ -6,16 +6,16 @@
 
 <div align="center">
 <div style="display: inline_block; margin-top: 1000em;"><br>
- <img align="center" height="10em" width="55%" src="https://img.lovepik.com/element/40170/4054.png_300.png"
+ <img align="center" height="10em" width="100%" src="https://img.lovepik.com/element/40170/4054.png_300.png"
 </div>
  
 <div align="center">
- <img align="center" height="auto" width="30%" src="https://qph.cf2.quoracdn.net/main-qimg-98a605f9d45e09cd470aa50ea7049ad0">
+ <img align="center" height="auto" width="50%" src="https://qph.cf2.quoracdn.net/main-qimg-98a605f9d45e09cd470aa50ea7049ad0">
 </div>
 
  <div align="center">
 <div style="display: inline_block; margin-top: 1000em;"><br>
- <img align="center" height="10em" width="55%" src="https://img.lovepik.com/element/40170/4054.png_300.png"
+ <img align="center" height="10em" width="100%" src="https://img.lovepik.com/element/40170/4054.png_300.png"
 </div>
  
 <div align="center">
