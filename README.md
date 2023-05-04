@@ -14,7 +14,7 @@
 </div>
 
  <div align="center">
-<div style="display: inline_block; margin-top: 1000em;"><br>
+<div style="display: inline_block;"><br>
  <img align="center" height="10em" width="100%" src="https://img.lovepik.com/element/40170/4054.png_300.png"
 </div>
  
