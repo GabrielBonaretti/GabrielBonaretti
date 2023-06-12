@@ -1,16 +1,16 @@
 <div align="center">
  <a href="https://github.com/GabrielBonaretti"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBonaretti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBonaretti&layout=compact&langs_count=7&theme=dark"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBonaretti&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
  
 ---
  
-<div align="center">
+<!-- <div align="center">
  <img align="center" height="auto" width="50%" src="https://qph.cf2.quoracdn.net/main-qimg-98a605f9d45e09cd470aa50ea7049ad0">
-</div>
+</div> -->
 
----
+<!-- --- -->
  
 <div align="center">
 <div style="display: inline_block">
